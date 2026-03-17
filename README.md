@@ -83,9 +83,12 @@ This repo is also preparation for GSoC 2027 and PGEE (IIIT Hyderabad MS by Resea
 
 ## Author
 
-**Adarsh**
-BSc Bioinformatics — Swami Vivekanand Subharti University. 
-GitHub: [adrix-ft](https://github.com/adrix-ft). 
+**Adarsh** 
+
+BSc Bioinformatics — Swami Vivekanand Subharti University
+
+GitHub: [adrix-ft](https://github.com/adrix-ft)
+
 ORCID: [0009-0002-7040-170X](https://orcid.org/0009-0002-7040-170X). 
 
 ---
