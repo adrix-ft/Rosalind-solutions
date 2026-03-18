@@ -18,7 +18,7 @@ Solving these problems to build algorithmic thinking for bioinformatics, strengt
 
 | # | Problem ID | Problem Name | Topic | Solution |
 |---|-----------|--------------|-------|----------|
-| 1 | DNA | Counting DNA Nucleotides | String Algorithms | [solution](./DNA.py) |
+| 1 | DNA | Counting DNA Nucleotides | String Algorithms | [solution](counting_dna/DNA.py) |
 | 2 | RNA | Transcribing DNA into RNA | String Algorithms | [solution](./RNA.py) |
 | 3 | REVC | Complementing a Strand of DNA | String Algorithms | [solution](./REVC.py) |
 | 4 | GC | Computing GC Content | String Algorithms | [solution](./GC.py) |
