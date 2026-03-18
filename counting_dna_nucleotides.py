@@ -1,0 +1,6 @@
+dna = "your dna sequence".lower()
+a = dna.count("a")
+g = dna.count("g")
+t = dna.count("t")
+c = dna.count("c")
+print(a,c,g,t)
